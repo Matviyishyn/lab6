@@ -1,0 +1,1 @@
+select * from item_common_data where id = 1;
